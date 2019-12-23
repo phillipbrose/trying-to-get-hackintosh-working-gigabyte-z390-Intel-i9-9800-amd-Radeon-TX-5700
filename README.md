@@ -1,0 +1,1 @@
+# trying-to-get-hackintosh-working-gigabyte-z390-Intel-i9-9800-amd-Radeon-TX-5700
